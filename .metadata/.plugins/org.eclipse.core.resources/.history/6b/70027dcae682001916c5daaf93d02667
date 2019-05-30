@@ -1,0 +1,10 @@
+package com.br.troca.valores;
+
+public class TrocaValores {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
